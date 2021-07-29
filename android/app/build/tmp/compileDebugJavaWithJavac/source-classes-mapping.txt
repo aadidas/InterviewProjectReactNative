@@ -1,0 +1,14 @@
+com/instadukaninterviewapp/ReactNativeFlipper.java
+ com.instadukaninterviewapp.ReactNativeFlipper
+ com.instadukaninterviewapp.ReactNativeFlipper$1
+ com.instadukaninterviewapp.ReactNativeFlipper$2
+ com.instadukaninterviewapp.ReactNativeFlipper$2$1
+com/instadukaninterviewapp/BuildConfig.java
+ com.instadukaninterviewapp.BuildConfig
+com/instadukaninterviewapp/MainApplication.java
+ com.instadukaninterviewapp.MainApplication
+ com.instadukaninterviewapp.MainApplication$1
+com/instadukaninterviewapp/MainActivity.java
+ com.instadukaninterviewapp.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
